@@ -1,0 +1,6 @@
+interface:
+  display_name: "Publish Sermon Audio"
+  short_description: "Prepare and safely publish podcast audio"
+  default_prompt: "Use $publish-sermon-audio to prepare and publish a sermon recording as a Spotify episode."
+policy:
+  allow_implicit_invocation: true
